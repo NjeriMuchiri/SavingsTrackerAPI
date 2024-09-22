@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SavingsTrackerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cab1b62cc594fd65ab155af2ed1f2133228a9daf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39ba344eb34127fa225ce592a027602acf57d37e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SavingsTrackerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SavingsTrackerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
